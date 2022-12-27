@@ -716,7 +716,7 @@ Configure the search to increase the relevance of items in a given category.
 ```json
 // typedoc.json
 {
-    "searchCategoryBoosts": {
+    "searchGroupBoosts": {
         "Classes": 1.5
     }
 }
